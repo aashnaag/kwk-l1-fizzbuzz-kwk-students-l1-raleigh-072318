@@ -10,3 +10,5 @@ def fizzbuzz(number)
   elsif nil
   end
 end
+
+FizzBuzz(4)
