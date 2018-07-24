@@ -5,8 +5,8 @@ def fizzbuzz(number)
     returns "FizzBuzz"
   elsif % 5 = 0
     returns "Buzz"
-  elsif 
-    puts fizzbuzz
-    elsif nil
+  elsif % 3 = 0
+    returns "Fizz"
+  elsif nil
   end
 end
