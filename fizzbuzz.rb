@@ -7,5 +7,5 @@ def fizzbuzz
     puts buzz
   if divisibleby15
     puts fizzbuzz
-elsif nil
+    elsif nil
 end
