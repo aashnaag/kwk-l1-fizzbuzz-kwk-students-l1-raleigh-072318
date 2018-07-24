@@ -1,11 +1,11 @@
 
 
-def fizzbuzz
-  if % 15 = 0
+def fizzbuzz(number)
+  elsif % 15 = 0
     returns "FizzBuzz"
-  if divisibleby5
-    puts buzz
-  elsif divisibleby15
+  if % 5 = 0
+    returns "Buzz"
+  elsif 
     puts fizzbuzz
     elsif nil
   end
