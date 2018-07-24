@@ -1,8 +1,8 @@
 
 
 def fizzbuzz
-  if divisibleby3
-    puts fizz
+  if % 15 = 0
+    returns "FizzBuzz"
   if divisibleby5
     puts buzz
   elsif divisibleby15
