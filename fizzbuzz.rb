@@ -1,6 +1,7 @@
 
 
-def fizzbuzz #{divisible_by_3_and_5}
+def fizzbuzz
+  if divisibleby3
 puts fizz ()
 puts buzz ()
 puts fizzbuzz
