@@ -1,9 +1,9 @@
 
 
 def fizzbuzz(number)
-  elsif % 15 = 0
+  if % 15 = 0
     returns "FizzBuzz"
-  if % 5 = 0
+  elsif % 5 = 0
     returns "Buzz"
   elsif 
     puts fizzbuzz
